@@ -1,0 +1,24 @@
+<h2>Select Directory to Scan for Duplicates</h2>
+<form method="post">
+    {% csrf_token %}
+    <label for="directory_path">Directory Path:</label>
+    <input type="text" id="directory_path" name="directory_path" placeholder="/path/to/your/directory" required>
+    <button type="submit">Scan</button>
+</form>
+
+{% if duplicates %}
+    <h3>Duplicate Files</h3>
+    <ul>
+    {% for hash, files in duplicates.items %}
+        <li>Hash: {{ hash }}
+            <ul>
+            {% for file in files %}
+                <li>{{ file }}</li>
+            {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+    </ul>
+{% elif duplicates is not None %}
+    <p>No duplicates found.</p>
+{% endif %}
