@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Similar Images Viewer</title>
+    <style>
+        .group {
+            margin-bottom: 40px;
+        }
+        .image {
+            display: inline-block;
+            margin: 5px;
+            text-align: center;
+        }
+        img {
+            max-width: 200px;
+            max-height: 200px;
+            display: block;
+        }
+        h2 {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Similar Images Viewer</h1>
+    <div id="content"></div>
+
+    <script>
+        fetch('similar_images.json')
+            .then(response => response.json())
+            .then(data => {
+                const content = document.getElementById('content');
+                data.forEach((group, index) => {
+                    const groupDiv = document.createElement('div');
+                    groupDiv.className = 'group';
+                    const title = document.createElement('h2');
+                    title.textContent = `Group ${index + 1}`;
+                    groupDiv.appendChild(title);
+
+                    const largestImageDiv = document.createElement('div');
+                    largestImageDiv.className = 'image';
+                    const largestImageTitle = document.createElement('p');
+                    largestImageTitle.textContent = 'Largest Image:';
+                    const largestImage = document.createElement('img');
+                    largestImage.src = group.largest_image;
+                    largestImageDiv.appendChild(largestImageTitle);
+                    largestImageDiv.appendChild(largestImage);
+                    groupDiv.appendChild(largestImageDiv);
+
+                    group.similar_images.forEach(imagePath => {
+                        const imageDiv = document.createElement('div');
+                        imageDiv.className = 'image';
+                        const imageTitle = document.createElement('p');
+                        imageTitle.textContent = 'Similar Image:';
+                        const image = document.createElement('img');
+                        image.src = imagePath;
+                        imageDiv.appendChild(imageTitle);
+                        imageDiv.appendChild(image);
+                        groupDiv.appendChild(imageDiv);
+                    });
+
+                    content.appendChild(groupDiv);
+                });
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+    </script>
+</body>
+</html>
