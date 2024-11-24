@@ -1,0 +1,968 @@
+{
+    "summary": {
+        "total_duplicate_groups": 92,
+        "total_duplicate_files": 193,
+        "total_redundant_files": 101,
+        "total_redundant_size_bytes": 2998302382,
+        "total_files_to_copy": 33910,
+        "total_size_to_copy_bytes": 191335472778
+    },
+    "duplicates": [
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3007_face0.jpg",
+                "size": 36693
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3007_face0.jpg\\IMG_3007_face0.jpg",
+                "size": 36693
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1972.jpg",
+                "size": 32569
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_0CD0C8CA-4DE7-4F2C-BB2A-A47E012A99C0_1_105_c.jpeg\\IMG_1972.jpg",
+                "size": 32569
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_2793.jpg",
+                "size": 27643
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_1BD5EC4E-9D0A-490D-88D4-00574BEACF8E_1_101_o.jpeg\\IMG_2793.jpg",
+                "size": 27643
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1648_face0.jpg",
+                "size": 30175
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_2D3C38CE-2C64-4251-8A3A-5FF24871E63B_1_105_c.jpeg\\IMG_1648_face0.jpg",
+                "size": 30175
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3054_face2.jpg",
+                "size": 24714
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_43750496-FCC6-4503-B214-1F72EB4F39C7_1_105_c.jpeg\\IMG_3054_face2.jpg",
+                "size": 24714
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2016-05\\4ADC69F2-58A0-4F92-83BF-9DA6AC9BB0AE_1_105_c.jpeg",
+                "size": 272313
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_4ADC69F2-58A0-4F92-83BF-9DA6AC9BB0AE_4_5005_c.jpeg\\4ADC69F2-58A0-4F92-83BF-9DA6AC9BB0AE_1_105_c.jpeg",
+                "size": 272313
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2021-06\\509C3230-0AED-415D-97DC-09140E9FFF05_1_102_o.jpeg",
+                "size": 74586
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_509C3230-0AED-415D-97DC-09140E9FFF05_1_102_o.jpeg\\509C3230-0AED-415D-97DC-09140E9FFF05_1_102_o.jpeg",
+                "size": 74586
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2023-07\\50D229F0-3A59-4267-8A72-0712E05964C7_4_5005_c.jpeg",
+                "size": 118913
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_50D229F0-3A59-4267-8A72-0712E05964C7_4_5005_c.jpeg\\50D229F0-3A59-4267-8A72-0712E05964C7_4_5005_c.jpeg",
+                "size": 118913
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-01\\59C0397F-B597-48F6-99AA-0F433CF95D62_1_105_c.jpeg",
+                "size": 234608
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_59C0397F-B597-48F6-99AA-0F433CF95D62_1_105_c.jpeg\\59C0397F-B597-48F6-99AA-0F433CF95D62_1_105_c.jpeg",
+                "size": 234608
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_6473 (1).JPG\\IMG_6473 (1).JPG",
+                "size": 0
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_5D88B45F-AF9A-4FCB-BC1C-7624687A6CC5_1_105_c.jpeg\\5D88B45F-AF9A-4FCB-BC1C-7624687A6CC5_1_105_c.jpeg",
+                "size": 0
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_64200FD4-E1FC-4842-9A2F-FB0F896F2082_1_105_c.jpeg\\64200FD4-E1FC-4842-9A2F-FB0F896F2082_1_105_c.jpeg",
+                "size": 0
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_6A921AFA-EE95-4860-A5BD-6DB8B56C2F17_4_5005_c.jpeg\\6A921AFA-EE95-4860-A5BD-6DB8B56C2F17_4_5005_c(1).jpeg",
+                "size": 0
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_E0E00377-4E11-4660-BCD5-AB41FA430EAD_4_5005_c.jpeg\\E0E00377-4E11-4660-BCD5-AB41FA430EAD_4_5005_c(1).jpeg",
+                "size": 0
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3609_face3.jpg",
+                "size": 30063
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_64DC2AFE-ED97-4F2B-9B20-B9A0E9A2310E_1_105_c.jpeg\\IMG_3609_face3.jpg",
+                "size": 30063
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2021-06\\CBF98D0D-E50F-4972-9654-2EB5F851EE03_1_102_o.jpeg",
+                "size": 46769
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_673634FD-2CED-48DA-8962-BFFC6653796C.jpeg\\CBF98D0D-E50F-4972-9654-2EB5F851EE03_1_102_o.jpeg",
+                "size": 46769
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3611_face0.jpg",
+                "size": 37075
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_6BC3F312-D4AF-48C1-8539-066A182DB0D9_1_105_c.jpeg\\IMG_3611_face0.jpg",
+                "size": 37075
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\BECM1989_face0.jpg",
+                "size": 40761
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_74D78E49-D1CC-4DBC-879E-C87022146FF6_1_105_c.jpeg\\BECM1989_face0.jpg",
+                "size": 40761
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face2.jpg",
+                "size": 17063
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_85E6B10D-91C4-4349-86CE-764B97ACDC9E_1_105_c.jpeg\\AKII9061_face2.jpg",
+                "size": 17063
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2021-06\\89727A6D-F504-453D-958C-0A2498A63187_4_5005_c.jpeg",
+                "size": 49058
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_89727A6D-F504-453D-958C-0A2498A63187_1_101_o.jpeg\\89727A6D-F504-453D-958C-0A2498A63187_4_5005_c.jpeg",
+                "size": 49058
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\MHQU3320_face11.jpg",
+                "size": 19933
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AD0AB0B0-3E25-4E84-8DDF-4FA84838ACA0_1_105_c.jpeg\\MHQU3320_face11.jpg",
+                "size": 19933
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face1.jpg",
+                "size": 15522
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face1.jpg\\AKII9061_face1.jpg",
+                "size": 15522
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face11.jpg",
+                "size": 12530
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face11.jpg\\AKII9061_face11.jpg",
+                "size": 12530
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face13.jpg",
+                "size": 10877
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face13.jpg\\AKII9061_face13.jpg",
+                "size": 10877
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face3.jpg",
+                "size": 15863
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face3.jpg\\AKII9061_face3.jpg",
+                "size": 15863
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face4.jpg",
+                "size": 16341
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face4.jpg\\AKII9061_face4.jpg",
+                "size": 16341
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\AKII9061_face5.jpg",
+                "size": 13979
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_AKII9061_face5.jpg\\AKII9061_face5.jpg",
+                "size": 13979
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2416_face0.jpg",
+                "size": 20107
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_B562DF27-D82C-43B7-87B8-C9BAAF4FF817.jpeg\\IMG_2416_face0.jpg",
+                "size": 20107
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\PIQR9094_face6.jpg",
+                "size": 12331
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_B91C3D74-6D56-407D-8213-D58D00F97B68_4_5005_c.jpeg\\PIQR9094_face6.jpg",
+                "size": 12331
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3345.jpg",
+                "size": 41944
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_BED59D84-8C17-4F3D-8DD7-FF0054945EF3_1_105_c.jpeg\\IMG_3345.jpg",
+                "size": 41944
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2033_face0.jpg",
+                "size": 15480
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_C33BB834-898E-4FA4-9527-C87CCA5AD0FA_1_105_c.jpeg\\IMG_2033_face0.jpg",
+                "size": 15480
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_2945_face0.jpg",
+                "size": 44951
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_C8C532FB-B46A-4EF0-A826-46ECBDAC17A8.jpeg\\IMG_2945_face0.jpg",
+                "size": 44951
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1564.jpg",
+                "size": 33876
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_DC31DEE2-6DEE-4087-A724-8E98396883E4_1_101_o.jpeg\\IMG_1564.jpg",
+                "size": 33876
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\QKYC6852_face6.jpg",
+                "size": 25379
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_DEB2F90D-DDB7-4692-AAD3-ED747ADAE1FC_1_102_o.jpeg\\QKYC6852_face6.jpg",
+                "size": 25379
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2235_face0.jpg",
+                "size": 29365
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_DFRL4830.jpg\\IMG_2235_face0.jpg",
+                "size": 29365
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1415_face0.jpg",
+                "size": 42594
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_FA9C73E1-8014-437D-B9A6-1A449759A517_1_105_c.jpeg\\IMG_1415_face0.jpg",
+                "size": 42594
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\FXVL8167_face1.jpg",
+                "size": 37427
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_FXVL8167_face1.jpg\\FXVL8167_face1.jpg",
+                "size": 37427
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\HLUK4809_face0.jpg",
+                "size": 38711
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_HLUK4809_face0.jpg\\HLUK4809_face0.jpg",
+                "size": 38711
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1222_face0.jpg",
+                "size": 38561
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_1222_face0.jpg\\IMG_1222_face0.jpg",
+                "size": 38561
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3206_face0.jpg",
+                "size": 36880
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_1460_face0.jpg\\IMG_3206_face0.jpg",
+                "size": 36880
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1584_face0.jpg",
+                "size": 38149
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_1584_face0.jpg\\IMG_1584_face0.jpg",
+                "size": 38149
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1743_face1.jpg",
+                "size": 35315
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_1743_face1.jpg\\IMG_1743_face1.jpg",
+                "size": 35315
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\VSHO2407_face3.jpg",
+                "size": 38054
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_1767_face0.jpg\\VSHO2407_face3.jpg",
+                "size": 38054
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2101_face0.jpg",
+                "size": 40387
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2101_face0.jpg\\IMG_2101_face0.jpg",
+                "size": 40387
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2335_face0.jpg",
+                "size": 34761
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2335_face0.jpg\\IMG_2335_face0.jpg",
+                "size": 34761
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\QVUJ2226_face1.jpg",
+                "size": 34122
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2528_face1.jpg\\QVUJ2226_face1.jpg",
+                "size": 34122
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2582_face0.jpg",
+                "size": 29257
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2582_face0.jpg\\IMG_2582_face0.jpg",
+                "size": 29257
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\UHYW8251_face5.jpg",
+                "size": 34776
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2799_face1.jpg\\UHYW8251_face5.jpg",
+                "size": 34776
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_2964_face0.jpg",
+                "size": 31362
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_2964_face0.jpg\\IMG_2964_face0.jpg",
+                "size": 31362
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3051_face1.jpg",
+                "size": 31002
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3051_face1.jpg\\IMG_3051_face1.jpg",
+                "size": 31002
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3053_face0.jpg",
+                "size": 30343
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3053_face0.jpg\\IMG_3053_face0.jpg",
+                "size": 30343
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3209_face3.jpg",
+                "size": 19076
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3131_face0.jpg\\IMG_3209_face3.jpg",
+                "size": 19076
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3440_face0.jpg",
+                "size": 31398
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3165_face1.jpg\\IMG_3440_face0.jpg",
+                "size": 31398
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\VBEF3147_face3.jpg",
+                "size": 29401
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3298_face0.jpg\\VBEF3147_face3.jpg",
+                "size": 29401
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3298_face1.jpg",
+                "size": 36068
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3298_face1.jpg\\IMG_3298_face1.jpg",
+                "size": 36068
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3410_face0.jpg",
+                "size": 28867
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3410_face0.jpg\\IMG_3410_face0.jpg",
+                "size": 28867
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3439_face0.jpg",
+                "size": 27591
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3439_face0.jpg\\IMG_3439_face0.jpg",
+                "size": 27591
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3503_face0.jpg",
+                "size": 36229
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3503_face0.jpg\\IMG_3503_face0.jpg",
+                "size": 36229
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\IMG_3600_face1.jpg",
+                "size": 29712
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_IMG_3600_face1.jpg\\IMG_3600_face1.jpg",
+                "size": 29712
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\MHQU3320_face14.jpg",
+                "size": 19436
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_MHQU3320_face14.jpg\\MHQU3320_face14.jpg",
+                "size": 19436
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\MNGJ7711_face3.jpg",
+                "size": 38917
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_MNGJ7711_face3.jpg\\MNGJ7711_face3.jpg",
+                "size": 38917
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\PGSV3390_face1.jpg",
+                "size": 31546
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_PGSV3390_face1.jpg\\PGSV3390_face1.jpg",
+                "size": 31546
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\SDJT7375_face0.jpg",
+                "size": 19530
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_SDJT7375_face0.jpg\\SDJT7375_face0.jpg",
+                "size": 19530
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\SKSW2564_face1.jpg",
+                "size": 35442
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_SKSW2564_face1.jpg\\SKSW2564_face1.jpg",
+                "size": 35442
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-11\\TDJG8434_face4.jpg",
+                "size": 19524
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_TDJG8434_face4.jpg\\TDJG8434_face4.jpg",
+                "size": 19524
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\XJXG7417_face2.jpg",
+                "size": 38411
+            },
+            {
+                "path": "C:\\Backup\\final\\2014-12\\group_XJXG7417_face2.jpg\\XJXG7417_face2.jpg",
+                "size": 38411
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2016-05\\IMG_0001(1).mov",
+                "size": 3433210
+            },
+            {
+                "path": "C:\\Backup\\final\\2016-05\\IMG_0001 (1)(1).MOV",
+                "size": 3433210
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2016-05\\IMG_0002(1).mov",
+                "size": 3433210
+            },
+            {
+                "path": "C:\\Backup\\final\\2016-05\\IMG_0002 (1)(1).MOV",
+                "size": 3433210
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2017-12\\IMG_7759_2.MOV",
+                "size": 42296
+            },
+            {
+                "path": "C:\\Backup\\final\\2017-06\\IMG_7759_2.MOV",
+                "size": 42296
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2017-12\\IMG_8307_2.MOV",
+                "size": 40568
+            },
+            {
+                "path": "C:\\Backup\\final\\2017-07\\IMG_8307_2.MOV",
+                "size": 40568
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1333_3f593b78.MOV",
+                "size": 10595
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-06\\IMG_1333_3f593b78.MOV",
+                "size": 10595
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1407_f6109012.MOV",
+                "size": 12119
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-07\\IMG_1407_f6109012.MOV",
+                "size": 12119
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1681_4d496903.MOV",
+                "size": 10784
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-08\\IMG_1681_4d496903.MOV",
+                "size": 10784
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1735_5da29afb.MOV",
+                "size": 10905
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-08\\IMG_1735_5da29afb.MOV",
+                "size": 10905
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\ORCP1672_16ff505f.mp4",
+                "size": 16651
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-08\\ORCP1672_16ff505f.mp4",
+                "size": 16651
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\TYAM0302_bede7c5f.mp4",
+                "size": 8568
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-08\\TYAM0302_bede7c5f.mp4",
+                "size": 8568
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_1971_c31a30b8.MOV",
+                "size": 12192
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-09\\IMG_1971_c31a30b8.MOV",
+                "size": 12192
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2042_428804b4.MOV",
+                "size": 17060
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-09\\IMG_2042_428804b4.MOV",
+                "size": 17060
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2053_757382b5.MOV",
+                "size": 8232
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-09\\IMG_2053_757382b5.MOV",
+                "size": 8232
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2286_2985e99d.MOV",
+                "size": 17322
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-10\\IMG_2286_2985e99d.MOV",
+                "size": 17322
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2019-01\\IMG_2483_20201183.MOV",
+                "size": 9513
+            },
+            {
+                "path": "C:\\Backup\\final\\2018-12\\IMG_2483_20201183.MOV",
+                "size": 9513
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-06\\IMG_1077 (2).MOV",
+                "size": 60943871
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-06\\IMG_1077 (1).MOV",
+                "size": 60943871
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1170.MOV",
+                "size": 176024774
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1170 (1).MOV",
+                "size": 176024774
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1170 (2).MOV",
+                "size": 176024774
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1178.MOV",
+                "size": 93726073
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1178 (1).MOV",
+                "size": 93726073
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-07\\IMG_1178 (2).MOV",
+                "size": 93726073
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-08\\IMG_1262.MOV",
+                "size": 62161163
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-08\\IMG_1262 (1).MOV",
+                "size": 62161163
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-08\\IMG_1262 (2).MOV",
+                "size": 62161163
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1294.MOV",
+                "size": 481234803
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1294 (1).MOV",
+                "size": 481234803
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1294 (2).MOV",
+                "size": 481234803
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1303.MOV",
+                "size": 217449097
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1303 (1).MOV",
+                "size": 217449097
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1303 (2).MOV",
+                "size": 217449097
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1348 (2).MOV",
+                "size": 23448892
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1348 (1).MOV",
+                "size": 23448892
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1357.MOV",
+                "size": 115989208
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1357 (1).MOV",
+                "size": 115989208
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1357 (2).MOV",
+                "size": 115989208
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1362.MOV",
+                "size": 13773585
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-09\\IMG_1362 (1).MOV",
+                "size": 13773585
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1437.MOV",
+                "size": 150299353
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1437 (1).MOV",
+                "size": 150299353
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1449.MOV",
+                "size": 69315741
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1449 (1).MOV",
+                "size": 69315741
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1452.MOV",
+                "size": 62683069
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1452 (1).MOV",
+                "size": 62683069
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1475.MOV",
+                "size": 96520623
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1475 (1).MOV",
+                "size": 96520623
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1490.MOV",
+                "size": 180502837
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-10\\IMG_1490 (1).MOV",
+                "size": 180502837
+            }
+        ],
+        [
+            {
+                "path": "C:\\Backup\\final\\2020-11\\IMG_1568.MOV",
+                "size": 38146620
+            },
+            {
+                "path": "C:\\Backup\\final\\2020-11\\IMG_1568 (2).MOV",
+                "size": 38146620
+            }
+        ]
+    ]
+}

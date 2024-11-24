@@ -1,0 +1,5 @@
+typer
+rich
+Pillow
+mutagen
+rich
